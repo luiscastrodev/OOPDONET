@@ -10,10 +10,15 @@ namespace ConsoleAppOOP._01_OOP._02_Pilares_OOP
     public class CafereitaEspressa : Eletrodomestico
     {
         public CafereitaEspressa(string nome, int voltagem) 
-            : base(nome, voltagem) { }
+            : base(nome, voltagem) {
+            Console.WriteLine(nome + voltagem);
+
+        }
 
 
-        public CafereitaEspressa(): base("Padrao", 220) { }
+        public CafereitaEspressa(): base("Padrao", 220) {
+            Console.WriteLine();
+        }
 
 
         private static void AquecerAgua() { }
@@ -23,7 +28,6 @@ namespace ConsoleAppOOP._01_OOP._02_Pilares_OOP
         {
             AquecerAgua();
             MoerGraos();
-
             //....etc
         }
         public override void Ligar()
@@ -35,6 +39,11 @@ namespace ConsoleAppOOP._01_OOP._02_Pilares_OOP
            //Resfriar aquecedor
         }
 
-       
+        public override void Testar()
+        {
+            base.Testar();
+        }
+
+
     }
 }

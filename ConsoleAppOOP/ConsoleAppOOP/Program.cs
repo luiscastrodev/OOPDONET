@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleAppOOP._01_OOP._02_Pilares_OOP;
+using System;
 using static ConsoleAppOOP._01_OOP._02_Pilares_OOP.Heranca;
 
 namespace ConsoleAppOOP
@@ -20,8 +21,8 @@ namespace ConsoleAppOOP
             //Neta neta = new Neta();
             //Console.WriteLine("Senha vista da classe Herança: " + neta.senhaPai);
             //Vizinho vizinho = new Vizinho(neta);
-
-            Console.WriteLine("Hello World!");
+            new AutomacaoCafe().ServirCafe();
+            Console.WriteLine();
             Console.ReadLine();
         }
 
