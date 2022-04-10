@@ -22,6 +22,7 @@ namespace ConsoleAppOOP
             funcionario.CalcularIdade();
 
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }     
     }
 }
