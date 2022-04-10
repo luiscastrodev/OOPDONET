@@ -1,0 +1,16 @@
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net5.0\ConsoleAppOOP.csproj.AssemblyReference.cache
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net5.0\ConsoleAppOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net5.0\ConsoleAppOOP.AssemblyInfoInputs.cache
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net5.0\ConsoleAppOOP.AssemblyInfo.cs
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net5.0\ConsoleAppOOP.csproj.CoreCompileInputs.cache
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\net5.0\ConsoleAppOOP.exe
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\net5.0\ConsoleAppOOP.deps.json
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\net5.0\ConsoleAppOOP.runtimeconfig.json
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\net5.0\ConsoleAppOOP.runtimeconfig.dev.json
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\net5.0\ConsoleAppOOP.dll
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\net5.0\ConsoleAppOOP.pdb
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net5.0\ConsoleAppOOP.dll
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net5.0\refint\ConsoleAppOOP.dll
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net5.0\ConsoleAppOOP.pdb
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net5.0\ConsoleAppOOP.genruntimeconfig.cache
+D:\dev\OOP\OOPDONET\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\net5.0\ref\ConsoleAppOOP.dll

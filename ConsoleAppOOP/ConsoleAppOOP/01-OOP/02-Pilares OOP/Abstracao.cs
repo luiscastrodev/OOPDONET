@@ -19,7 +19,12 @@ namespace ConsoleAppOOP._01_OOP._02_Pilares_OOP
         }
 
         //nao eh obrigatorio implementar o comportamento. porem a classe que extends sim 
-        public abstract void Ligar();
+        public abstract void Ligar();//metodo nao implementa nda mais eh obg a implementar
         public abstract void Desligar();
+
+        public virtual void Testar()//nao eh obrigatorio implementar pois ja vem com comportamento padrao
+        {
+            //teste do equipamento
+        }
     }
 }
