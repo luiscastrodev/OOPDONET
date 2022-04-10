@@ -1,4 +1,5 @@
 ﻿using System;
+using static ConsoleAppOOP._01_OOP._02_Pilares_OOP.Heranca;
 
 namespace ConsoleAppOOP
 {
@@ -16,6 +17,10 @@ namespace ConsoleAppOOP
 
         static void Main(string[] args)
         {
+            Funcionario funcionario = new Funcionario();
+
+            funcionario.CalcularIdade();
+
             Console.WriteLine("Hello World!");
         }     
     }
